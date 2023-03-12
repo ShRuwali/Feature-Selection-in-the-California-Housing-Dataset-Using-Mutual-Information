@@ -1,1 +1,1 @@
-# Feature-Selection-in-the-California-Housing-Dataset-Using-Mutual-Information
+This repository consists of using the California Housing dataset in predicting the housing prices using numerous features. Since not all of the features will be important, we see which of the feature will be among the most useful in predicting the variable.
