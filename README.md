@@ -1,1 +1,2 @@
 This repository consists of using the California Housing dataset in predicting the housing prices using numerous features. Since not all of the features will be important, we see which of the feature will be among the most useful in predicting the variable using Mutual Information as feature selection. The prediction is made using the Random Forest algorithm.
+The California housing dataset is a well-known dataset and was obtained from scikit-learn.
